@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://subhanjan1234:subhanjan1234@world-quiz-api.evlff.mongodb.net/credentials?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
